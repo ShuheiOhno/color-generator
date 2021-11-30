@@ -1,3 +1,5 @@
+import "./Dashboard.css";
+
 function Dashboard() {
     return (
         <>
@@ -11,7 +13,7 @@ function Dashboard() {
             </form>
         </section>
         <section className="colors">
-            
+
         </section>
         </>
     )
